@@ -15,13 +15,15 @@ Strong emphasis on data-informed decisions, psychological safety, and maintainin
 ## Process Docs Index
 
 - [Project Management Overview](octoacme-project-management-overview.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Role Onboarding Checklists](octoacme-role-onboarding-checklists.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
 - [Execution & Tracking](octoacme-execution-and-tracking.md)
 - [Risk Management & Communication](octoacme-risks-and-communication.md)
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Decision Log Template](octoacme-decision-log-template.md)
 
 ## How to Use These Docs
 

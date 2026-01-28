@@ -16,6 +16,58 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
 
+## Role-Specific Execution Workflows
+
+### Developer Workflow
+- Pick items from "Ready" column that have clear acceptance criteria
+- Create feature branch and implement changes with tests
+- Submit PR with description linking to issue and design specs (if applicable)
+- Address code review feedback and ensure CI passes
+- Coordinate with DevOps Engineer on deployment and monitoring needs
+- Validate implementation against design specs with UX Designer (for UI changes)
+
+### UX Designer Workflow
+- Monitor "In Progress" items that involve UI/UX work
+- Provide design clarifications and feedback during implementation
+- Review PRs for design fidelity and accessibility
+- Conduct usability testing on staged features before release
+- Update design documentation based on implementation learnings
+
+### Data Analyst / Data Scientist Workflow
+- Monitor instrumentation and tracking implementation in PRs
+- Validate data collection and metric definitions during code review
+- Set up or update dashboards as features are released
+- Track success metrics and report on progress toward goals
+- Conduct analysis and experiments to inform iteration
+
+### DevOps Engineer Workflow
+- Monitor infrastructure and resource usage during development
+- Review and approve infrastructure changes and deployment scripts
+- Coordinate deployment windows and release logistics
+- Monitor deployments and rollout health
+- Respond to incidents and maintain runbooks
+
+### Customer Support / Advocacy Lead Workflow
+- Monitor for customer-reported issues and escalations during development
+- Test features from customer perspective before release
+- Prepare support documentation and FAQs
+- Brief support team on new features and changes
+- Gather post-release feedback and communicate to Product and Engineering
+
+### Product Manager Workflow
+- Monitor backlog and adjust priorities based on new information
+- Review completed features against acceptance criteria and goals
+- Make go/no-go decisions for releases based on quality and completeness
+- Gather customer feedback and inform next iteration
+- Update roadmap and communicate progress to stakeholders
+
+### Project Manager Workflow
+- Facilitate daily standups and track progress
+- Update project status and communicate risks
+- Coordinate cross-team dependencies and handoffs
+- Escalate blockers and facilitate resolution
+- Maintain project artifacts (timeline, risk register, decision log)
+
 ## Quality & Testing
 - Unit tests for new logic
 - Integration tests where applicable

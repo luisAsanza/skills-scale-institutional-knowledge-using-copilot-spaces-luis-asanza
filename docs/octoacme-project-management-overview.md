@@ -17,6 +17,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- UX Designer: research user needs, design interfaces, and validate usability.
+- Data Analyst/Data Scientist: turn data into insights, define metrics, and measure impact.
+- DevOps Engineer: build and maintain infrastructure, CI/CD pipelines, and operational tooling.
+- Customer Support/Advocacy Lead: serve as voice of customer, handle escalations, and gather feedback.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
@@ -26,6 +30,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Decision Log (see [Decision Log Template](octoacme-decision-log-template.md))
+- Role Assignment and Onboarding Checklists (see [Role Onboarding Checklists](octoacme-role-onboarding-checklists.md))
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
